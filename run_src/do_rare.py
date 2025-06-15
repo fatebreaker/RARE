@@ -139,7 +139,7 @@ def main(args):
             save_obj["token_counter"] = token_counter
             # import ipdb; ipdb.set_trace()
             save_generations.append(save_obj)
-            print("Score Accuracy: ", accuracy, "Frequent accuracy: ", gen_accuracy, "num tested: ", num_tested, "avg call: ", call_counter/num_tested, "avg token: ", token_counter/num_tested)
+            print("Accuracy: ", accuracy, "num tested: ", num_tested, "avg call: ", call_counter/num_tested, "avg token: ", token_counter/num_tested)
             with open(args.save_path, "w") as f:
                 json.dump(save_generations, f)
         else:
