@@ -1,0 +1,17 @@
+### Instruction:
+Cameron decided to have a barbecue and gathered her friends together. How would Others feel as a result? A: like attending, B: like staying home, C: a good friend to have
+
+### Response:
+Let's think step by step. Cameron decided to organize a barbecue and invited her friends to join, creating an opportunity for a social gathering. Barbecues are typically enjoyable events that bring people together for food, relaxation, and camaraderie, which would likely make her friends feel inclined to attend. Additionally, the effort Cameron put into organizing the barbecue could make her friends appreciate her more and see her as a good friend. Therefore, the answer is A: like attending.
+
+### Instruction:
+Kai found one for sale online but it was too much money for her. What does Kai need to do before this? A: cheaper, B: Open up her laptop, C: save money
+
+### Response:
+Let's think step by step. Kai saw an item for sale online that she was interested in, but it was too expensive for her. To reach the point of browsing online listings, she would need to first access the internet and view the item on her device. This means Kai would need to open her laptop or another device to find the item and check its price. Therefore, the answer is B: Open up her laptop.
+
+### Instruction:
+Cameron promised not to tell anyone about Ash's surprise party. Cameron told someone the secret. What does Cameron need to do before this? A: tell Ash about the party, B: Go to Ash's party, C: tell someone about the party
+
+### Response:
+Let's think step by step. Cameron initially promised not to reveal Ash’s surprise party, but eventually told someone about it. For Cameron to break this promise and share the information, she would first need to tell someone about the party. Without telling someone, the act of sharing the secret would not happen. Therefore, the answer is C: tell someone about the party.

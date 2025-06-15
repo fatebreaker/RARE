@@ -1,0 +1,40 @@
+### Instruction:
+In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox populations are sometimes attacked by a fatal parasite, the mange mite. As mite population sizes increase at a given site, how are hare and fox populations most likely to respond at the same site? (Assume that hares have no major predators at this site other than foxes.) A: Both fox and hare populations will decrease, B: Both fox and hare populations will increase, C:Fox populations will decrease and hare populations will increase, D: Fox populations will increase and hare populations will decrease.
+
+### Response:
+Let's think step by step.
+Step 1: Identify the key ecological details. The red fox is the primary predator of hares, and the red fox population is affected by the mange mite, which is a fatal parasite.
+Step 2: Recognize that the mange mite will reduce the fox population, as it causes significant morbidity and mortality in foxes.
+Step 3: Recall that in ecosystems where a predator population decreases, the prey population (in this case, hares) often increases due to reduced predation pressure.
+Step 4: Consider that with fewer foxes hunting them, hares will likely experience a population increase as their primary predator population declines.
+Step 5: Now, match this understanding with the answer choices provided.
+Step 6: Option C suggests that fox populations will decrease and hare populations will increase, which aligns with the expected predator-prey dynamics in this scenario.
+Step 7: The answer is C: Fox populations will decrease and hare populations will increase.
+
+### Instruction:
+A patient comes into the hospital after being bit by a dog who he stated was “acting crazy”. The wound is open and bleeding. Animal control captured the dog and said that it was foaming at the mouth and extremely aggressive. Suspecting a rabies infection, the patient is given a serum that contains rabies antibodies that were grown inside a horse. This is an example of what kind of immunity? A: Passive, B: Active, C:Natural, D: Artificial
+
+### Response:
+Let's think step by step.
+Step 1: The patient was bitten by a dog suspected of having rabies, as the dog was "acting crazy," foaming at the mouth, and aggressive—classic signs of rabies.
+Step 2: The patient received a serum containing preformed rabies antibodies, which were grown inside a horse.
+Step 3: Understand that the patient is receiving preformed antibodies, which means their immune system is not producing the antibodies. This is a hallmark of passive immunity.
+Step 4: Recall that passive immunity provides immediate protection by transferring antibodies from another source rather than generating them through vaccination or natural infection.
+Step 5: The antibodies were administered through a medical intervention, making this an example of artificial immunity.
+Step 6: Now, match the key information to the answer choices.
+Step 7: Option A refers to passive immunity, which is correct because preformed antibodies were provided to the patient.
+Step 8: The answer is A: Passive.
+
+### Instruction:
+A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequently develops urinary incontinence. There is no evidence of urinary tract infection and no prior history of urinary pathology. The most likely diagnosis is A: autonomic neurogenic bladderv, B: motor paralytic bladder, C:reflex neurogenic bladder, D: uninhibited neurogenic bladder
+
+### Response:
+Let's think step by step.
+Step 1: The patient is a 65-year-old female with aphasia and right-sided hemiparesis, which are signs of a stroke affecting the brain.
+Step 2: After the stroke, she develops urinary incontinence, but there is no evidence of a urinary tract infection or prior urinary pathology, suggesting a neurogenic cause for the incontinence.
+Step 3: Understand that strokes can damage brain regions responsible for bladder control, leading to a neurogenic bladder condition.
+Step 4: Uninhibited neurogenic bladder occurs due to damage to the brain's higher centers, causing loss of voluntary bladder control and leading to involuntary urination, which fits with the patient's presentation.
+Step 5: Reflex neurogenic bladder is typically associated with spinal cord injury, while motor paralytic bladder involves urinary retention, not incontinence. Autonomic neurogenic bladder is more commonly seen in conditions like diabetes, not stroke.
+Step 6: Now, match the key information to the answer choices.
+Step 7: Option D, uninhibited neurogenic bladder, is the most likely diagnosis because the stroke caused the loss of bladder control.
+Step 8: The answer is D: Uninhibited neurogenic bladder.

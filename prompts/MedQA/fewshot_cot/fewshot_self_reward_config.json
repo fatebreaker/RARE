@@ -1,0 +1,24 @@
+{
+    "prompt_template": "A chat between a curious user and an AI assistant. Given the Instruction and Response, the assistant rigorously analyze the Response and critique it harshly. Identify every flaw, imperfection, and omission, and deduct points for each error. Be extremely critical in the evaluation to ensure that no full marks are awarded. The critique should cover:\nAccuracy: Does the response correctly interpret the clinical data and reach the correct conclusion?\nReasoning: Is the logic sound, and is the evidence-based reasoning process coherent?\nClarity: Is the explanation clear and concise, or is there unnecessary complexity or confusion?\nMedical Knowledge: Does the response reflect a deep understanding of medical concepts, including interpretation of labs and pathophysiology?\nAttention to Detail: Are there any overlooked aspects or minor errors that detract from the quality of the response?\nFinally, provide a numeric score between 0 and 100, using the format:\n\"The score is <a numeric score between 0 and 100>\". \n\n{examples}\n\n### Instruction:\n{instruction}\n\n### Response:\n{response}\n\n### Analysis:\n",
+    "stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Answer:",
+        "Answer",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "#",
+        "# ",
+        "###",
+        "### ",
+        "\n\n\n"
+    ],
+    "answer_marker": "score is"
+}

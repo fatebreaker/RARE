@@ -1,0 +1,21 @@
+{
+    "prompt_template": "A chat between an online user and a Medical AI assistant. The assistant give step-by-step answers to the user's questions.\n\n{examples}\n\n### Instruction:\n{instruction}\n\n### Response:\nLet's think step by step.\n",
+    "stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "#",
+        "# ",
+        "###",
+        "### "
+    ],
+    "answer_marker": "answer is"
+}

@@ -1,0 +1,33 @@
+### Instruction:
+A 46-year-old woman comes to the physician because of a 2-week history of diplopia and ocular pain when reading the newspaper. She also has a 3-month history of amenorrhea, hot flashes, and increased sweating. She reports that she has been overweight all her adult life and is happy to have lost 6.8 kg (15 lb) of weight in the past 2 months. Her pulse is 110/min, and blood pressure is 148/98 mm Hg. Physical examination shows moist palms and a nontender thyroid gland that is enlarged to two times its normal size. Ophthalmologic examination shows prominence of the globes of the eyes, bilateral lid retraction, conjunctival injection, and an inability to converge the eyes. There is no pain on movement of the extraocular muscles. Visual acuity is 20/20 bilaterally. Neurologic examination shows a fine resting tremor of the hands. Deep tendon reflexes are 3+ with a shortened relaxation phase. Which of the following is the most likely cause of this patient's ocular complaints? A: Granulomatous inflammation of the cavernous sinus, B: Abnormal communication between the cavernous sinus and the internal carotid artery, C: Glycosaminoglycan accumulation in the orbit, D: Bacterial infection of the orbital contents, E: Sympathetic hyperactivity of levator palpebrae superioris
+
+### Response:
+Let's think step by step.
+Step 1: Identify key clinical features: A 46-year-old woman presents with diplopia, ocular pain, weight loss, amenorrhea, and hyperthyroid signs like tachycardia, enlarged thyroid gland, and hyperreflexia.
+Step 2: Recognize underlying condition: These findings suggest Graves' disease with thyroid-associated orbitopathy (TAO).
+Step 3: Determine cause of ocular symptoms: Prominent globes, lid retraction, and conjunctival injection are caused by immune-mediated glycosaminoglycan accumulation in the orbit, characteristic of TAO.
+Step 4: Eliminate other options: Conditions like cavernous sinus inflammation, carotid-cavernous fistula, and bacterial infection do not fit the patient’s presentation.
+Step 5: The most likely cause of the ocular complaints is glycosaminoglycan accumulation in the orbit.
+Step 6: Conclusion: The answer is C: Glycosaminoglycan accumulation in the orbit.
+
+### Instruction:
+A 9-month-old female is brought to the emergency department after experiencing a seizure. She was born at home and was normal at birth according to her parents. Since then, they have noticed that she does not appear to be achieving developmental milestones as quickly as her siblings, and often appears lethargic. Physical exam reveals microcephaly, very light pigmentation (as compared to her family), and a "musty" body odor. The varied manifestations of this disease can most likely be attributed to which of the following genetic principles? A: Anticipation, B: Incomplete penetrance, C: Multiple gene mutations, D: Pleiotropy, E: Variable expressivity
+
+### Response:
+Let's think step by step.
+Step 1: Identify key clinical features: A 9-month-old girl presents with developmental delay, microcephaly, light pigmentation, musty body odor, and a history of lethargy, suggesting a metabolic disorder.
+Step 2: Determine the underlying condition: These features are consistent with phenylketonuria (PKU), caused by a deficiency in phenylalanine hydroxylase, leading to phenylalanine accumulation and downstream effects on the brain, pigmentation, and overall development.
+Step 3: Analyze the genetic principle: PKU affects multiple systems, including the central nervous system (seizures and developmental delay), pigmentation (hypopigmentation), and metabolism (musty odor due to phenylalanine metabolites). This reflects the concept of pleiotropy, where a single gene mutation affects multiple, seemingly unrelated systems.
+Step 4: Eliminate other options: Anticipation (worsening disease severity in successive generations), incomplete penetrance (not all carriers showing symptoms), and variable expressivity (differing severity among individuals) do not fully explain the range of symptoms observed in PKU.
+Step 5: Conclusion: The varied manifestations of this disease are best explained by pleiotropy. The answer is D: Pleiotropy.
+
+### Instruction:
+A 23-year-old man comes to the physician for evaluation of decreased hearing, dizziness, and ringing in his right ear for the past 6 months. Physical examination shows multiple soft, yellow plaques and papules on his arms, chest, and back. There is sensorineural hearing loss and weakness of facial muscles bilaterally. His gait is unsteady. An MRI of the brain shows a 3-cm mass near the right internal auditory meatus and a 2-cm mass at the left cerebellopontine angle. The abnormal cells in these masses are most likely derived from which of the following embryological structures? A: Neural tube, B: Surface ectoderm, C: Neural crest, D: Notochord, E: Mesoderm
+
+### Response:
+Let's think step by step.
+Step 1: Identify key clinical features: The patient has decreased hearing, dizziness, and ringing in the right ear, along with bilateral facial muscle weakness, sensorineural hearing loss, and unsteady gait. MRI shows bilateral masses near the internal auditory meatus and cerebellopontine angle.
+Step 2: Determine the diagnosis: These findings are consistent with bilateral vestibular schwannomas, characteristic of neurofibromatosis type 2 (NF2). Schwannomas arise from Schwann cells, which are responsible for myelination of peripheral nerves.
+Step 3: Analyze embryological origin: Schwann cells are derived from neural crest cells, which give rise to peripheral nervous system structures, including Schwann cells, autonomic ganglia, and cranial nerve ganglia.
+Step 4: Eliminate other options: Neural tube: Gives rise to the central nervous system (brain and spinal cord), not Schwann cells. Surface ectoderm: Forms epidermis, hair, nails, and parts of the eye and ear, not Schwann cells. Notochord: Gives rise to the nucleus pulposus of intervertebral discs, unrelated to this case. Mesoderm: Forms connective tissues, muscles, and bones, not Schwann cells.
+Step 5: Conclusion: The abnormal cells in these masses are most likely derived from neural crest cells. The answer is C: Neural crest.

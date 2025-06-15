@@ -1,0 +1,25 @@
+Given a question, generate a search query that would help gather information to answer it. Your goal is to formulate a query that will retrieve useful evidence or additional details that contribute to answering the question. The query should aim to obtain new information and be specific enough to ensure that the search results are relevant and helpful.
+
+Question 1: Cameron decided to have a barbecue and gathered her friends together. How would Others feel as a result? A: like attending, B: like staying home, C: a good friend to have
+Query 1.1: Emotional responses of friends when invited to a casual social gathering like a barbecue.
+Document 1.1: Studies on social gatherings suggest that events such as barbecues are generally perceived positively, with many people enjoying the casual atmosphere, food, and social interaction. Invitations to these types of gatherings often lead to feelings of excitement and anticipation, as barbecues are associated with relaxation and a welcoming environment, making friends likely to feel inclined to attend.
+Query 1.2: Reasons people are inclined to attend social gatherings like barbecues.
+Document 1.2: Research indicates that people are more inclined to attend gatherings when there is a personal connection with the host and a relaxed setting, such as a barbecue. Friends are likely to feel a sense of inclusion and appreciation toward the host for organizing the event, which can strengthen friendships and foster a desire to attend.
+Query 1.3: Social benefits of attending casual gatherings like barbecues with friends.
+Document 1.3: Casual gatherings such as barbecues provide social benefits, including stress reduction, improved mood, and strengthened friendships. For many, attending these events enhances a sense of belonging and enjoyment. Therefore, attending a barbecue hosted by a friend would likely lead to positive feelings and a desire to participate.
+
+Question 2: Kai found one for sale online but it was too much money for her. What does Kai need to do before this? A: cheaper, B: Open up her laptop, C: save money
+Query 2.1: Steps involved in searching for items for sale online.
+Document 2.1: Before purchasing an item online, users typically need to access a device, such as a laptop or smartphone, and open a web browser or shopping app to browse listings. Once online, they can compare prices and assess affordability, helping them make informed purchasing decisions.
+Query 2.2: How to check item prices and budget accordingly when shopping online.
+Document 2.2: Online shopping requires users to check the item prices and often compare across platforms to find the best deals. If the item is too expensive, it may prompt the buyer to reconsider or adjust their budget or look for ways to save money before making a purchase.
+Query 2.3: Financial strategies for affording high-cost items found online.
+Document 2.3: When an item is too expensive, common financial strategies include saving up over time, looking for discounts or deals, or setting a budget specifically for that item. This approach helps individuals avoid impulse purchases and prepares them for eventual purchase when financially ready.
+
+Question 3: Cameron promised not to tell anyone about Ash's surprise party. Cameron told someone the secret. What does Cameron need to do before this? A: tell Ash about the party, B: Go to Ash's party, C: tell someone about the party
+Query 3.1: Steps involved in sharing a secret or private information.
+Document 3.1: Sharing a secret, such as information about a surprise party, typically involves directly communicating with another person and disclosing details that were meant to be kept confidential. This action requires an intentional choice to reveal the information to someone else.
+Query 3.2: What happens when someone breaks a promise to keep a secret?
+Document 3.2: When someone breaks a promise to keep a secret, they may choose to disclose confidential information to others. This act usually involves deciding to tell someone despite a prior agreement to remain silent, which can affect trust and relationships.
+Query 3.3: Consequences of revealing a surprise party plan.
+Document 3.3: Revealing details of a surprise party ahead of time can spoil the intended surprise and may lead to disappointment or frustration for those who planned the event. Breaking the confidentiality surrounding a surprise party can diminish the intended impact and excitement of the occasion.

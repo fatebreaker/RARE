@@ -1,0 +1,48 @@
+### Instruction:
+A 60-year-old chronic smoker presents with painless gross hematuria of 1-day duration. Investigation of choice to know the cause of hematuria. A: USG, B: X-ray KUB, C: Urine routine, D: Urine microscopy for malignant cytology cells
+
+### Response:
+Let's think step by step.
+Step 1: Identify key clinical features: A 60-year-old man who is a chronic smoker presents with painless gross hematuria.
+Step 2: Consider possible causes: In elderly patients, especially chronic smokers, painless gross hematuria is highly suggestive of bladder cancer (transitional cell carcinoma).
+Step 3: Determine the best initial investigation: The investigation should be non-invasive and capable of detecting malignant cells from the urinary tract.
+Step 4: Evaluate each option: Option A (USG): Ultrasound may detect masses but can miss small bladder tumors; not the most sensitive for bladder cancer. Option B (X-ray KUB): Not useful for detecting soft tissue tumors like bladder cancer. Option C (Urine routine): Confirms the presence of blood but cannot detect malignant cells. Option D (Urine microscopy for malignant cytology cells): Can detect exfoliated malignant urothelial cells in the urine; highly specific for bladder cancer.
+Step 5: Select the most appropriate investigation: Urine microscopy for malignant cytology cells is the best choice to detect bladder cancer in this high-risk patient.
+Step 6: Conclusion: Therefore, the investigation of choice is urine microscopy for malignant cytology cells. The answer is D: Urine microscopy for malignant cytology cells.
+
+### Instruction:
+A 56-year-old man has been having bloody bowel movements on and off for the past several weeks. He reports that the blood is bright red, it coats the outside of the stools, and he can see it in the toilet bowl even before he wipes himself. When he does so, there is also blood on the toilet paper. After further questioning, it is ascertained that he has been constipated for the past 2 months and that the caliber of the stools has changed. They are now pencil thin, rather than the usual diameter of an inch or so that was customary for him. He has no pain. Which of the following is the most likely diagnosis? A: Anal fissure, B: Cancer of the cecum, C: Cancer of the rectum, D: External hemorrhoids
+
+### Response:
+Let's think step by step.
+Step 1: Identify key clinical features: Bright red blood coating stools, visible blood in the toilet before wiping, blood on toilet paper, constipation for 2 months, change to pencil-thin stools, absence of pain.
+Step 2: Consider possible causes: Bright red blood suggests lower gastrointestinal bleeding. Pencil-thin stools indicate narrowing of the rectal lumen.
+Step 3: Evaluate each option: Option A (Anal fissure): Typically causes severe pain during defecation; blood is minimal and streaked on stool. Option B (Cancer of the cecum): Usually presents with occult bleeding and iron-deficiency anemia; changes in stool caliber are uncommon. Option C (Cancer of the rectum): Can cause painless bright red bleeding, change in stool caliber due to obstruction by a tumor, and constipation. Option D (External hemorrhoids): May cause bleeding and discomfort but rarely cause changes in stool caliber; bleeding is usually minimal.
+Step 4: Match clinical features with most likely diagnosis: Cancer of the rectum aligns with painless rectal bleeding and change in stool caliber.
+Step 5: Conclusion: The most likely diagnosis is cancer of the rectum. The answer is C: Cancer of the rectum.
+
+### Instruction:
+A 67-year-old man with an 18-year history of type 2 diabetes mellitus presents for a routine physical examination. His temperature is 36.9 °C (98.5 °F), his blood pressure is 158/98 mm Hg, and his pulse is 82/min and regular. On examination, the physician notes a non-tender, pulsatile mass in the mid-abdomen. A plain abdominal X-ray film with the patient in the lateral position reveals spotty calcification of a markedly dilated abdominal aortic wall. Following surgery, the patient is placed on a low-fat diet to reduce the risk of continued progression of his atherosclerotic disease. A bile acid sequestrant is added to interrupt enterohepatic circulation of bile acids. Which of the following agents was MOST likely prescribed? A: Atorvastatin, B: Cholestyramine, C: Clofibrate, D: Gemfibrozil
+
+### Response:
+Let's think step by step.
+Step 1: Identify key clinical features: A 67-year-old man with type 2 diabetes and an abdominal aortic aneurysm (non-tender, pulsatile mass with calcification).
+Step 2: Post-surgical management goal: Reduce progression of atherosclerotic disease.
+Step 3: Medication prescribed: A bile acid sequestrant to interrupt enterohepatic circulation of bile acids.
+Step 4: Understand the mechanism: Bile acid sequestrants bind bile acids in the intestine, preventing their reabsorption, which leads the liver to use more cholesterol to synthesize new bile acids, lowering LDL cholesterol levels.
+Step 5: Evaluate each option: Option A (Atorvastatin): An HMG-CoA reductase inhibitor; lowers cholesterol by inhibiting synthesis, not by binding bile acids. Option B (Cholestyramine): A bile acid sequestrant that binds bile acids in the intestine. Option C (Clofibrate): A fibric acid derivative; primarily lowers triglycerides. Option D (Gemfibrozil): Another fibric acid derivative; lowers triglycerides.
+Step 6: Select the appropriate agent: Cholestyramine is the bile acid sequestrant among the options.
+Step 7: Conclusion: The most likely prescribed agent is cholestyramine. The answer is B: Cholestyramine.
+
+### Instruction:
+An 86-year-old man has become progressively unable to live independently for the past 10 years, and he now requires assistance with bathing, dressing, toileting, feeding, and transfers in and out of chairs and bed. On physical examination, he has no motor or sensory deficits. He cannot give the current date or state where he is. Six months later, he suddenly becomes comatose and dies. At autopsy, there is a large superficial left parietal lobe hemorrhage. Histologic examination of the brain shows numerous neocortical neuritic plaques and neurofibrillary tangles. The peripheral cerebral arteries and the core of each plaque stain positively with Congo red. Which of the following mechanisms is most likely responsible for his disease? A: Aggregation of Aβ peptide, B: Conformational change in the prion protein (PrP), C: Dopamine deficiency, D: Expansion of polyglutamine repeats
+
+### Response:
+Let's think step by step.
+Step 1: Identify key clinical features: An 86-year-old man with a 10-year history of progressive decline in daily functioning, severe cognitive impairment (can't provide date or location), no motor or sensory deficits, sudden coma and death.
+Step 2: Autopsy findings: Large superficial hemorrhage in the left parietal lobe; histology shows neuritic plaques and neurofibrillary tangles; Congo red staining of plaques and cerebral arteries.
+Step 3: Consider the diagnosis: The clinical and histological features are characteristic of Alzheimer's disease, complicated by cerebral amyloid angiopathy leading to hemorrhagic stroke.
+Step 4: Understand the mechanism: Aggregation of Aβ peptide leads to formation of amyloid plaques in Alzheimer's disease. Amyloid deposition in cerebral vessels (amyloid angiopathy) weakens vessel walls, causing hemorrhages. Congo red positivity indicates amyloid deposition.
+Step 5: Evaluate other options: Conformational change in PrP is associated with prion diseases (e.g., Creutzfeldt-Jakob disease). Dopamine deficiency is linked to Parkinson's disease. Expansion of polyglutamine repeats is seen in Huntington's disease.
+Step 6: Match mechanism with findings: Aggregation of Aβ peptide explains the Alzheimer's pathology and cerebral amyloid angiopathy.
+Step 7: The most likely mechanism is aggregation of beta-amyloid peptide. The answer is A: Aggregation of beta-amyloid (Aβ) peptide.

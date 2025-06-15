@@ -1,0 +1,29 @@
+### Instruction:
+Cameron decided to have a barbecue and gathered her friends together. How would Others feel as a result? A: like attending, B: like staying home, C: a good friend to have
+
+### Response:
+Let's think step by step.
+Step 1: Cameron decided to organize a barbecue and invited her friends, which suggests she wants to create a welcoming, social event.
+Step 2: Barbecues are typically enjoyable gatherings where friends come together to relax, eat, and have fun, which often makes people want to attend.
+Step 3: This type of social setting generally attracts people rather than deterring them, as barbecues are seen as casual, friendly events.
+Step 4: Given these points, it is reasonable to conclude that others would feel inclined to attend. The answer is A: like attending.
+
+### Instruction:
+Kai found one for sale online but it was too much money for her. What does Kai need to do before this? A: cheaper, B: Open up her laptop, C: save money
+
+### Response:
+Let's think step by step.
+Step 1: Kai found an item for sale online, which indicates she was browsing or searching for it.
+Step 2: To view and check the price of an online item, she would need access to a device with internet, like a laptop or phone.
+Step 3: Before seeing that the item was too expensive, she would have had to open her laptop or another device to start her online search.
+Step 4: Based on these steps, it makes sense that Kai would first need to open up her laptop to find the item. The answer is B: Open up her laptop.
+
+### Instruction:
+Cameron promised not to tell anyone about Ash's surprise party. Cameron told someone the secret. What does Cameron need to do before this? A: tell Ash about the party, B: Go to Ash's party, C: tell someone about the party
+
+### Response:
+Let's think step by step.
+Step 1: Cameron made a promise to keep Ash's surprise party a secret.
+Step 2: Despite the promise, Cameron ended up revealing the secret to someone.
+Step 3: To tell someone about the surprise party, Cameron would first have to make the decision to disclose the information to another person.
+Step 4: Therefore, Cameron needs to tell someone about the party before revealing the secret. The answer is C: tell someone about the party.

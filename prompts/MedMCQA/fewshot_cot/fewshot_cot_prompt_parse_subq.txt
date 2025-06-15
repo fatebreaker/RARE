@@ -1,0 +1,43 @@
+### Instruction:
+A 56-year-old man has been having bloody bowel movements on and off for the past several weeks. He reports that the blood is bright red, it coats the outside of the stools, and he can see it in the toilet bowl even before he wipes himself. When he does so, there is also blood on the toilet paper. After further questioning, it is ascertained that he has been constipated for the past 2 months and that the caliber of the stools has changed. They are now pencil thin, rather than the usual diameter of an inch or so that was customary for him. He has no pain. Which of the following is the most likely diagnosis? A: Anal fissure, B: Cancer of the cecum, C: Cancer of the rectum, D: External hemorrhoids
+
+### Response:
+Let's think step by step.
+Subquestion: What are the key clinical features presented by the patient?
+Subanswer: The patient is a 56-year-old man experiencing intermittent bright red blood coating the outside of his stools, visible blood in the toilet bowl, blood on toilet paper, constipation for 2 months, a change in stool caliber to pencil-thin stools, and no pain. The answer is that the patient has painless bright red rectal bleeding, change in stool caliber, and constipation.
+Subquestion: What is the significance of bright red blood coating the outside of stools and pencil-thin stools?
+Subanswer: Bright red blood coating the outside of stools indicates bleeding from a distal source in the lower gastrointestinal tract, such as the rectum or anal canal. Pencil-thin stools suggest a narrowing of the rectal lumen, possibly due to an obstructing mass. The answer is that these symptoms point toward a distal colorectal lesion causing obstruction and bleeding.
+Subquestion: Which conditions among the options are associated with these clinical features?
+Subanswer: Cancer of the rectum is associated with painless rectal bleeding, change in bowel habits, and narrowing of stool caliber. Anal fissures typically cause severe pain during defecation and blood streaks on the stool but are uncommon in this age group without pain. Cancer of the cecum usually presents with occult blood loss and anemia, not bright red bleeding or stool caliber changes. External hemorrhoids can cause bleeding and discomfort but rarely lead to changes in stool caliber. The answer is that cancer of the rectum is the condition most consistent with these features.
+Subquestion: Now we can answer the question: Which of the following is the most likely diagnosis?
+Subanswer: Based on the patient's age, painless bright red rectal bleeding, change in stool caliber, and constipation, the most likely diagnosis is cancer of the rectum. Therefore, the correct choice is C: Cancer of the rectum.
+
+### Instruction:
+An 86-year-old man has become progressively unable to live independently for the past 10 years, and he now requires assistance with bathing, dressing, toileting, feeding, and transfers in and out of chairs and bed. On physical examination, he has no motor or sensory deficits. He cannot give the current date or state where he is. Six months later, he suddenly becomes comatose and dies. At autopsy, there is a large superficial left parietal lobe hemorrhage. Histologic examination of the brain shows numerous neocortical neuritic plaques and neurofibrillary tangles. The peripheral cerebral arteries and the core of each plaque stain positively with Congo red. Which of the following mechanisms is most likely responsible for his disease? A: Aggregation of Aβ peptide, B: Conformational change in the prion protein (PrP), C: Dopamine deficiency, D: Expansion of polyglutamine repeats
+
+### Response:
+Let's think step by step.
+Subquestion: What is the most likely diagnosis based on the patient's clinical presentation and histological findings?
+Subanswer: The patient is an elderly man with a 10-year history of progressive decline in cognitive and daily functioning abilities, consistent with dementia. Histological findings of numerous neuritic plaques and neurofibrillary tangles that stain with Congo red are characteristic of Alzheimer's disease. The answer is Alzheimer's disease.
+Subquestion: What is the significance of neuritic plaques and neurofibrillary tangles staining positively with Congo red?
+Subanswer: Congo red staining indicates the presence of amyloid deposits in tissues. In Alzheimer's disease, neuritic plaques composed of aggregated beta-amyloid (Aβ) peptide and neurofibrillary tangles containing hyperphosphorylated tau protein stain positively with Congo red. The answer is that Congo red positivity signifies amyloid deposition, specifically aggregated Aβ peptide.
+Subquestion: What is the mechanism leading to amyloid deposition in Alzheimer's disease?
+Subanswer: In Alzheimer's disease, abnormal processing of amyloid precursor protein (APP) by beta-secretase and gamma-secretase enzymes leads to the formation and aggregation of Aβ peptide, which deposits in the brain forming amyloid plaques. The answer is aggregation of Aβ peptide due to abnormal APP processing.
+Subquestion: Now we can answer the question: Which of the following mechanisms is most likely responsible for his disease?
+Subanswer: The mechanism most likely responsible for the patient's Alzheimer's disease is the aggregation of Aβ peptide (option A). Therefore, the correct answer is A: Aggregation of Aβ peptide.
+
+### Instruction:
+An elderly house wife lost her husband who died suddenly of Myocardial infarction couple of years ago. They had been staying alone for almost a decade with infrequent visits from her son and grandchildren. About a week after the death she heard his voice clearly talking to her as he would in a routine manner from the next room. She went to check but saw nothing. Subsequently she often heard his voice conversing with her and she would also discuss her daily matters with him. This however, provoked anxiety and sadness of mood when she was preoccupied with his thought. She should be treated with: A: Clornipramine, B: Aiprazolam, C: Electroconvulsive therapy, D: Haloperidol
+
+### Response:
+Let's think step by step.
+Subquestion: What is the most likely diagnosis for this elderly woman experiencing auditory hallucinations of her deceased husband?
+Subanswer: The most likely diagnosis is morbid (or complicated) grief with psychotic features, characterized by prolonged grief accompanied by hallucinations. The answer is morbid grief with psychotic features.
+Subquestion: What symptom is primarily affecting the patient and requires medical intervention?
+Subanswer: The primary symptom affecting the patient is auditory hallucinations—hearing and conversing with her deceased husband—which cause her anxiety and sadness. The answer is auditory hallucinations causing distress.
+Subquestion: Which class of medications is indicated for treating auditory hallucinations in this context?
+Subanswer: Antipsychotic medications are indicated for treating auditory hallucinations. The answer is antipsychotic medications.
+Subquestion: Among the options provided, which medication is an antipsychotic suitable for this patient?
+Subanswer: Haloperidol is the antipsychotic medication listed among the options. The answer is Haloperidol.
+Subquestion: Now we can answer the question: She should be treated with:
+Subanswer: She should be treated with Haloperidol to address her auditory hallucinations associated with morbid grief. Therefore, the correct choice is D: Haloperidol.

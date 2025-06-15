@@ -1,0 +1,39 @@
+### Instruction:
+In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox populations are sometimes attacked by a fatal parasite, the mange mite. As mite population sizes increase at a given site, how are hare and fox populations most likely to respond at the same site? (Assume that hares have no major predators at this site other than foxes.) A: Both fox and hare populations will decrease, B: Both fox and hare populations will increase, C:Fox populations will decrease and hare populations will increase, D: Fox populations will increase and hare populations will decrease.
+
+### Response:
+Let's think step by step.
+Subquestion: How does an increase in mange mite populations affect red fox populations at a given site?
+Subanswer: Mange mites are fatal parasites that infect red foxes. An increase in mange mite populations will lead to a higher infection rate among red foxes, causing a decline in the fox population. The answer is that the red fox population will decrease.
+Subquestion: What is the expected impact on hare populations when red fox populations decrease due to mange mite infections?
+Subanswer: With the decline in red fox populations, which are major predators of hares, there will be less predation pressure on the hares. This reduction in predation allows the hare population to increase. The answer is that the hare population will increase.
+Subquestion: Now we can answer the question: As mite population sizes increase at a given site, how are hare and fox populations most likely to respond at the same site?
+Subanswer: As mange mite populations increase, red fox populations will decrease due to fatal infections, and hare populations will increase because of reduced predation by foxes. Therefore, the answer is C: Fox populations will decrease and hare populations will increase.
+
+### Instruction:
+A patient comes into the hospital after being bit by a dog who he stated was “acting crazy”. The wound is open and bleeding. Animal control captured the dog and said that it was foaming at the mouth and extremely aggressive. Suspecting a rabies infection, the patient is given a serum that contains rabies antibodies that were grown inside a horse. This is an example of what kind of immunity? A: Passive, B: Active, C:Natural, D: Artificial
+
+### Response:
+Let's think step by step.
+Subquestion: Based on the dog's behavior and the patient's exposure, what is the suspected infection?
+Subanswer: The dog was acting crazy, foaming at the mouth, and was extremely aggressive, which are classic signs of rabies. The patient was bitten by this dog, so rabies infection is suspected. The answer is rabies infection.
+Subquestion: What treatment is the patient receiving to prevent the rabies infection?
+Subanswer: The patient is given a serum containing rabies antibodies grown inside a horse, which means he is receiving pre-formed antibodies against rabies. The answer is administration of rabies antiserum containing pre-formed antibodies.
+Subquestion: What type of immunity is provided by administering pre-formed antibodies from an external source?
+Subanswer: Administering pre-formed antibodies from an external source provides passive immunity, as the patient's immune system is not actively producing the antibodies. The answer is passive immunity.
+Subquestion: Now we can answer the question: This is an example of what kind of immunity?
+Subanswer: The patient receiving pre-formed rabies antibodies grown inside a horse is an example of passive immunity. Therefore, the answer is A: Passive.
+
+### Instruction:
+A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequently develops urinary incontinence. There is no evidence of urinary tract infection and no prior history of urinary pathology. The most likely diagnosis is A: autonomic neurogenic bladderv, B: motor paralytic bladder, C:reflex neurogenic bladder, D: uninhibited neurogenic bladder
+
+### Response:
+Let's think step by step.
+Subquestion: What neurological event is indicated by aphasia and right-sided hemiparesis in this patient?
+Subanswer: Aphasia and right-sided hemiparesis suggest a lesion in the left cerebral hemisphere, likely due to a stroke affecting cortical areas. The answer is a left-sided cerebral stroke affecting cortical areas.
+Subquestion: How can a cerebral cortical lesion lead to urinary incontinence?
+Subanswer: A lesion in the cerebral cortex can disrupt the inhibitory control over the micturition reflex normally exerted by higher brain centers, leading to involuntary urination. The answer is by causing loss of cortical inhibition over bladder function.
+Subquestion: What type of neurogenic bladder results from loss of cortical inhibition due to a cerebral lesion?
+Subanswer: Loss of cortical inhibition leads to an uninhibited neurogenic bladder, where the bladder empties reflexively without voluntary control. The answer is an uninhibited neurogenic bladder.
+Subquestion: Now we can answer the question: Which of the following is the most likely diagnosis?
+Subanswer: The most likely diagnosis is an uninhibited neurogenic bladder resulting from cortical damage. Therefore, the answer is D: Uninhibited neurogenic bladder.

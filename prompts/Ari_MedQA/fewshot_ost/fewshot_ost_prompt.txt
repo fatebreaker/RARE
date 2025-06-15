@@ -1,0 +1,54 @@
+### Instruction:
+A 46-year-old woman comes to the physician because of a 2-week history of diplopia and ocular pain when reading the newspaper. She also has a 3-month history of amenorrhea, hot flashes, and increased sweating. She reports that she has been overweight all her adult life and is happy to have lost 6.8 kg (15 lb) of weight in the past 2 months. Her pulse is 110/min, and blood pressure is 148/98 mm Hg. Physical examination shows moist palms and a nontender thyroid gland that is enlarged to two times its normal size. Ophthalmologic examination shows prominence of the globes of the eyes, bilateral lid retraction, conjunctival injection, and an inability to converge the eyes. There is no pain on movement of the extraocular muscles. Visual acuity is 20/20 bilaterally. Neurologic examination shows a fine resting tremor of the hands. Deep tendon reflexes are 3+ with a shortened relaxation phase. Which of the following is the most likely cause of this patient's ocular complaints? A: Granulomatous inflammation of the cavernous sinus, B: Abnormal communication between the cavernous sinus and the internal carotid artery, C: Glycosaminoglycan accumulation in the orbit, D: Bacterial infection of the orbital contents, E: Sympathetic hyperactivity of levator palpebrae superioris
+
+### Response:
+Let's think step by step.
+Step 1: Identify the key clinical features: rapidly progressing weakness starting in the upper body and moving downward, bilateral ptosis, sluggish pupillary response, weak sucking and gag reflexes, shallow respirations, drooling, constipation (dry diaper and no bowel movement), and decreased muscle strength.
+Step 2: Recognize that these symptoms are consistent with infant botulism.
+Step 3: Recall that infant botulism is caused by ingestion of Clostridium botulinum spores (commonly from honey), leading to production of botulinum toxin in the gut.
+Step 4: Understand that botulinum toxin blocks the release of acetylcholine at the presynaptic terminals of the neuromuscular junction by cleaving SNARE proteins necessary for neurotransmitter vesicle fusion.
+Step 5: This blockade results in flaccid paralysis and autonomic dysfunction.
+Step 6: Now, match this pathophysiology with the options provided.
+Step 7: Option D corresponds to blockade of presynaptic acetylcholine release at the neuromuscular junction.
+Step 8: The answer is D: Blockade of presynaptic acetylcholine release at the neuromuscular junction.
+
+### Instruction:
+A 1-year-old boy presents to the emergency department with weakness and a change in his behavior. His parents state that they first noticed the change in his behavior this morning and it has been getting worse. They noticed the patient was initially weak in his upper body and arms, but now he won’t move his legs with as much strength or vigor as he used to. Physical exam is notable for bilateral ptosis with a sluggish pupillary response, a very weak sucking and gag reflex, and shallow respirations. The patient is currently drooling and his diaper is dry. The parents state he has not had a bowel movement in over 1 day. Which of the following is the pathophysiology of this patient’s condition? A: Antibodies against postsynaptic nicotinic cholinergic ion channels, B: Autoantibodies against the presynaptic voltage-gated calcium channels, C: Autoimmune demyelination of peripheral nerves, D: Blockade of presynaptic acetylcholine release at the neuromuscular junction, E: Lower motor neuron destruction in the anterior horn
+
+### Response:
+Let's think step by step.
+Step 1: Identify the key clinical features: developmental delay, lethargy, microcephaly, hypopigmentation compared to family members, musty body odor, and seizure.
+Step 2: Recognize that these features are characteristic of phenylketonuria (PKU), an autosomal recessive disorder caused by deficiency of phenylalanine hydroxylase.
+Step 3: Understand that PKU leads to accumulation of phenylalanine and its toxic metabolites, affecting multiple organ systems, including the brain (developmental delay, seizures), skin (hypopigmentation), and producing a musty odor.
+Step 4: Recall that when a single gene mutation affects multiple, seemingly unrelated organ systems, it exemplifies the genetic principle of pleiotropy.
+Step 5: Now, match this genetic principle with the options provided.
+Step 6: Option D corresponds to pleiotropy.
+Step 7: The answer is D: Pleiotropy.
+
+### Instruction:
+A 9-month-old female is brought to the emergency department after experiencing a seizure. She was born at home and was normal at birth according to her parents. Since then, they have noticed that she does not appear to be achieving developmental milestones as quickly as her siblings, and often appears lethargic. Physical exam reveals microcephaly, very light pigmentation (as compared to her family), and a "musty" body odor. The varied manifestations of this disease can most likely be attributed to which of the following genetic principles? A: Anticipation, B: Incomplete penetrance, C: Multiple gene mutations, D: Pleiotropy, E: Variable expressivity
+
+### Response:
+Let's think step by step.
+Step 1: Identify the key clinical features: decreased hearing, dizziness, tinnitus (ringing in the ear), bilateral sensorineural hearing loss, bilateral facial muscle weakness, unsteady gait, and multiple soft, yellow plaques and papules on the skin.
+Step 2: Recognize that MRI findings of masses near the internal auditory meatus and cerebellopontine angle suggest bilateral vestibular schwannomas.
+Step 3: Understand that bilateral vestibular schwannomas are characteristic of Neurofibromatosis type 2 (NF2).
+Step 4: Recall that schwannomas are tumors of Schwann cells, which myelinate peripheral nerves.
+Step 5: Know that Schwann cells are derived from neural crest cells during embryological development.
+Step 6: Now, match this embryological origin with the options provided.
+Step 7: Option C corresponds to neural crest.
+Step 8: The answer is C: Neural crest.
+
+### Instruction:
+A 23-year-old man comes to the physician for evaluation of decreased hearing, dizziness, and ringing in his right ear for the past 6 months. Physical examination shows multiple soft, yellow plaques and papules on his arms, chest, and back. There is sensorineural hearing loss and weakness of facial muscles bilaterally. His gait is unsteady. An MRI of the brain shows a 3-cm mass near the right internal auditory meatus and a 2-cm mass at the left cerebellopontine angle. The abnormal cells in these masses are most likely derived from which of the following embryological structures? A: Neural tube, B: Surface ectoderm, C: Neural crest, D: Notochord, E: Mesoderm
+
+### Response:
+Let's think step by step.
+Step 1: Identify the key clinical features: chronic productive cough of white phlegm for 2 years, dyspnea on exertion (shortness of breath when climbing stairs), 40-pack-year smoking history, wheezing and rhonchi on lung examination.
+Step 2: Recognize that these symptoms are indicative of chronic obstructive pulmonary disease (COPD), specifically chronic bronchitis.
+Step 3: Understand that chronic bronchitis is characterized by hyperplasia and hypertrophy of mucus-secreting glands in the bronchi due to prolonged exposure to irritants like cigarette smoke.
+Step 4: Know that this leads to excessive mucus production and airway inflammation, causing obstruction of airflow during expiration.
+Step 5: Recall that the primary issue in COPD is progressive obstruction of expiratory airflow.
+Step 6: Now, match this pathophysiology with the options provided.
+Step 7: Option D corresponds to progressive obstruction of expiratory airflow.
+Step 8: The answer is D: Progressive obstruction of expiratory airflow.

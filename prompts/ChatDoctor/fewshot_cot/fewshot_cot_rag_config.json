@@ -1,0 +1,24 @@
+{
+    "prompt_template": "A chat between an online user and a Medical AI assistant. The assistant give answers to the user's questions, the assistant may use the information in the given relevant documents if is useful to answer the question.\n\n{examples}\n\n### Instruction:\n{instruction}\n### Relevant Documents:\n{documents}\n\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Answer:",
+        "Answer",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "#",
+        "# ",
+        "###",
+        "### ",
+        "\n\n\n"
+    ],
+    "answer_marker": "answer is"
+}

@@ -1,0 +1,24 @@
+{
+    "prompt_template": "A chat between a curious user and an AI assistant. Given the Instruction and Response, the assistant rigorously analyze the Response and critique it harshly. Identify every flaw, imperfection, and omission, and deduct points for each error. Be extremely critical in the evaluation to ensure that no full marks are awarded. Finally, provide a numeric score between 0 and 100, using the format:\n\"The score is <a numeric score between 0 and 100>\". \n\n{examples}\n\n### Instruction:\n{instruction}\n\n### Response:\n{response}\n\n### Analysis:\n",
+    "stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Answer:",
+        "Answer",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "#",
+        "# ",
+        "###",
+        "### ",
+        "\n\n\n"
+    ],
+    "answer_marker": "score is"
+}
